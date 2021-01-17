@@ -7,7 +7,7 @@ You need:
 ---------------------
  -story.txt
  
- -members.txt
+ -countries.txt
  
  -token.txt
  
